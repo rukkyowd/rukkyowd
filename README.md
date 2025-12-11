@@ -16,7 +16,6 @@ I’m a Computer Science student at **UNB**, passionate about building **interac
 |--------|--------------|-------------|
 | **Blackjack (Desktop Game)** | Python · Pygame | Feature-rich Blackjack game with betting, animations, and multiple game states — built as a fun casino-style project. |
 | **MusicBot** | JavaScript · Node.js | Music automation bot capable of processing commands and audio logic, designed for server or local use. |
-| **PayPalBot** | JavaScript · Node.js | Automation bot integrating PayPal logic for command handling and workflow management (customizable). |
 
 > 🔗 Check out my [GitHub profile](https://github.com/rukkyowd) for more projects and experiments.
 
