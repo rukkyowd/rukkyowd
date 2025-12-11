@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Oghenerukevwe (Rukky) Ohworode
 
-**🎓 BSc Computer Science | University of New Brunswick (UNB) 2025–2028 (Expected)**  
+**🎓 BSc Computer Science | University of New Brunswick (UNB) 2025–2029 (Expected)**  
 **📍 Fredericton, NB, Canada | 💻 Aspiring Developer — JavaScript · Python · Web / Bot / Game Enthusiast**  
 
 ---
