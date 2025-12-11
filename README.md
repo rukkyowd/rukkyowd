@@ -2,6 +2,7 @@
 
 **📍 Fredericton, NB, Canada**  
 **💻 Aspiring Developer — JavaScript · Python · Web / Bot / Game Enthusiast**  
+**🎓 BSc Computer Science, University of New Brunswick (UNB) | 2025 – 2028 (Expected)**
 
 ---
 
@@ -40,5 +41,5 @@
 
 ## 🎯 What I’m aiming for  
 
-I’m always looking to collaborate, learn new things, and build small to medium-size projects to sharpen my skills.  
+I’m currently pursuing a **BSc in Computer Science at UNB (2025–2028)** and looking to collaborate, learn new things, and build small to medium-size projects to sharpen my skills.  
 If you have an interesting idea or just want to chat about code — feel free to reach out!  
