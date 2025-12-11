@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Oghenerukevwe (Rukky) Ohworode
 
 **📍 Fredericton, NB, Canada**  
-**💻 Aspiring  — JavaScript · Python · Web / Bot / Game Enthusiast**  
+**💻 Aspiring Developer — JavaScript · Python · Web / Bot / Game Enthusiast**  
 
 ---
 
 ## 🧰 What I’m building / exploring  
-- 🔭 Currently working on: *blackjack*  
-- 🌱 Always learning: JavaScript, Node.js, Java, Python 
-- 💡 Interested in: web-development, small bots, hobby projects, open source  
+- 🔭 Currently working on: **Blackjack Game (Python/Pygame)**  
+- 🌱 Currently learning: **JavaScript, Node.js, Java, Python**  
+- 💡 Interested in: **web development, small bots, automation, hobby projects, open source**  
 
 ---
 
@@ -16,11 +16,10 @@
 
 | Project | Tech / Stack | Short Description |
 |--------|--------------|------------------|
-| **Project-A** | (e.g. JavaScript, Node.js) | A short, 1-line description of what it does / why it’s cool. |
-| **Project-B** | (e.g. Python, HTML/CSS) | Another line: what this project does or why I like it. |
-| **Project-C** | (e.g. React) | Short description. |
+| **Blackjack (Desktop Game)** | Python · Pygame | A feature-rich Blackjack game with betting, animations, UI, and multiple game states — built as a fun casino-style project. |
+| **MusicBot** | JavaScript · Node.js | A music/bot automation project designed to process commands and audio logic (customizable for server or local use). |
 
-> 🔗 Feel free to check out my pinned repos for more projects and experiments.
+> 🔗 Check out my pinned repos for more of my projects and experiments.
 
 ---
 
@@ -28,14 +27,14 @@
 
 - **Languages:** JavaScript · Python · HTML · Java  
 - **Frameworks / Tools:** Node.js · React · Express · Git / GitHub  
-- **Other:** (list anything else: e.g. VS Code, REST APIs, SQL, etc.)  
+- **Other Tools:** VS Code · REST APIs · JSON · Pygame  
 
 ---
 
 ## 📫 Let’s connect  
 
-- LinkedIn: [(https://www.linkedin.com/in/rukky-ohworode/)]  
-- Email: [rukky.ohworode@gmail.com]
+- **LinkedIn:** https://www.linkedin.com/in/rukky-ohworode/  
+- **Email:** rukky.ohworode@gmail.com  
 
 ---
 
