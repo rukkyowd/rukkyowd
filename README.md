@@ -14,7 +14,7 @@ I’m a Computer Science student at **UNB**, passionate about building **interac
 
 | Project | Tech / Stack | Description |
 |--------|--------------|-------------|
-| **Alpha Z**	| Python · Web3.py · Chainlink |	Quantitative Arbitrage Engine for Polymarket. Uses real-time data streams and automated execution logic to identify and act on market inefficiencies. |
+| **Alpha Z**	| Python · Web3.py · Chainlink · Binance |	Quantitative Arbitrage Engine for Polymarket. Uses real-time data streams and automated execution logic to identify and act on market inefficiencies. |
 | **Blackjack (Desktop Game)** | Python · Pygame | Feature-rich Blackjack game with betting, animations, and multiple game states — built as a fun casino-style project. |
 | **MusicBot** | JavaScript · Node.js | Music automation bot capable of processing commands and audio logic, designed for server or local use. |
 
